@@ -1,7 +1,7 @@
 ### Hi Humans 👋
 Some Information
 
-- 🔭 I’m currently working on Discord Bots
+- 🔭 I’m currently working on Discord.JS Bots
 - 🌱 I’m currently learning HTML
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Python
