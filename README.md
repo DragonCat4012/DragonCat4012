@@ -6,7 +6,7 @@ Some Information
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Python
 - 💬 Ask me about Anything UwU
-- 📫 How to reach me: idk :eyes: [https://discord.gg/Emk2udJ]
+- 📫 How to reach me: [idk](https://discord.gg/Emk2udJ) :eyes: 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Meow
 
