@@ -1,7 +1,6 @@
 ### Hi Humans 👋
 Some Information
-![Metrics](https://metrics.lecoq.io/DragonCat4012?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FBerlin)
-
+![Metrics](https://github.com/DragonCat4012/DragonCat4012/blob/master/github-metrics.svg)
 - 🔭 I’m currently working on Discord.JS Bots
 - 🌱 I’m currently learning HTML
 - 🤔 I’m looking for help with Python
