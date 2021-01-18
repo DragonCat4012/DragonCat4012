@@ -16,7 +16,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: A-K-O-R-A
+          user: DragonCat4012
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Berlin
