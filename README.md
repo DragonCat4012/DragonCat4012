@@ -5,3 +5,6 @@
 
 
 **[![widget](https://discord.com/api/guilds/553942677117337600/widget.png?style=banner2)](https://discord.gg/Emk2udJ)**
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DragonCat4012&layout=compact)](https://github.com/DragonCat4012/github-readme-stats)
