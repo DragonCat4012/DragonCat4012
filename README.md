@@ -8,6 +8,4 @@
 ## Currently learning
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40"/> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DragonCat4012&layout=compact)](https://github.com/DragonCat4012/github-readme-stats)
-
 **[![widget](https://discord.com/api/guilds/553942677117337600/widget.png?style=banner2)](https://discord.gg/Emk2udJ)**
