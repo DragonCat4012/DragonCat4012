@@ -28,3 +28,5 @@ jobs:
           plugin_habits: yes
           plugin_achievements_display: compact
           plugin_habits_facts: false
+          plugin_notable: yes
+          plugin_notable_from: organization
