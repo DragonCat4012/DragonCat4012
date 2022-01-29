@@ -30,3 +30,4 @@ jobs:
           plugin_habits_facts: false
           plugin_notable: yes
           plugin_notable_from: organization
+          plugin_habits_charts: yes
