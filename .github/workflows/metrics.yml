@@ -24,7 +24,7 @@ jobs:
          # plugin_isocalendar: yes
          # plugin_isocalendar_duration: half-year
           plugin_languages: yes
-          plugin_languages_ignored: "MakeFile, CMake"
+          plugin_languages_ignored: ["MakeFile", "CMake"]
          # plugin_achievements: yes
          # plugin_habits: yes
          # plugin_achievements_display: compact
